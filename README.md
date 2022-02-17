@@ -1,4 +1,4 @@
-## Hello, my name is Karla Natany, I work as a front-end developer!
+## Hello. My name is Karla Natany and I work as a front-end developer 🧑‍💻
 
 ### About me:
 
